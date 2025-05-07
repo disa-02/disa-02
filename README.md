@@ -1,65 +1,91 @@
-<h1 align="center">Hola 👋, soy TuNombre</h1>
-<h3 align="center">Desarrollador Full Stack | Apasionado por la tecnología</h3>
+<h1 align="center">Hi 👋, I'm Santiago Di Sabatto</h1>
+<h3 align="center"> System Engineer| Backend Developer</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Tu avatar" width="150" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Your avatar" width="150" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  <a href="https://github.com/tuusuario"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tuusuario"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tuemail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 Sobre mí
-
-- 🔭 Actualmente trabajando en **proyectos de software modernos**
-- 🌱 Aprendiendo **Docker, Kubernetes y sistemas distribuidos**
-- 💬 Pregúntame sobre **React, Spring Boot, APIs REST**
-- 📫 Cómo contactarme: **tuemail@example.com**
-- ⚡ Fun fact: *Siempre busco formas de automatizar lo tedioso*
-
----
-
-### 🚀 Tecnologías
-
-#### Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-#### Backend
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-
-#### Base de datos y DevOps
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-
----
-
-### 📌 Proyectos Destacados
-
-- 🔗 [**Nombre del Proyecto 1**](https://github.com/tuusuario/proyecto1)  
-  _Aplicación de gestión de tareas con React y Node.js_
-
-- 🔗 [**Nombre del Proyecto 2**](https://github.com/tuusuario/proyecto2)  
-  _Plataforma financiera con Spring Boot y PostgreSQL_
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=github_dark" alt="Top Languages" />
+  <a href="https://github.com/yourusername"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">Gracias por visitar mi perfil 🚀</p>
+### 🧠 About Me
+
+I am a Systems Engineer with professional experience in backend development using Java and Spring Boot. I have worked on projects where I integrated technologies such as AWS for server hosting, Docker and Docker Compose for deployment automation and consistent environments, and Git/GitHub for version control and effective team collaboration.
+
+Currently, I am seeking new opportunities to expand my knowledge and continue growing professionally.
+
+#### 👨‍💻 Professional Experience
+
+**Polo Ambiental**  
+_Backend Developer — Aug 2024 - Present_  
+- Developed the backend using Java JDK 21 and Spring Boot. Implemented security with Spring Security and JWT, enabling role-based authentication and access control.  
+- Built the frontend with React, consuming REST APIs for a dynamic and responsive user experience.  
+- Deployed the application to AWS Lightsail using Docker and Docker Compose to automate the production environment.  
+- Used Git and GitHub for version control and team collaboration.  
+- Managed PostgreSQL databases: created and modified tables, executed SQL queries and updates, and handled data through the `psql` console.
+
+**Digital Cala**  
+_Software Developer — Feb 2024 - Feb 2025_  
+- Participated in analyzing and developing functional and technical requirements. Delivered new features with Java JDK 17, aligning with client needs.  
+- Automated tasks with Bash scripts and administered Linux servers to ensure system performance and reliability.  
+- Worked with MediationZone for data processing. Maintained and optimized existing applications for better performance.  
+- Managed Kubernetes pods and resources, facilitating distributed application orchestration.
+
+---
+
+### 🚀 Technologies & Tools
+
+#### 💻 Programming & Markup Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+#### 🧰 Frameworks & Platforms
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+#### 🛠️ Build & Version Control
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+#### 🐳 DevOps & OS
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+#### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- 🔗 [**Expenses**](https://github.com/disa-02/expenses)  
+  _Web application for managing expenses, income, and account balances. Includes user authentication and role-based access control._
+
+- 🔗 [**Cloud Storage**](https://github.com/disa-02/cloudStorage)  
+  _Backend application that allows users to upload and organize files in the cloud. Designed with scalability and performance in mind._
+
+- 🔗 [**Ecommerce**](https://github.com/disa-02/ecommerce)  
+  _REST API that enables users to publish products for sale, add them to a shopping cart, and complete purchases. Supports role-based interactions._
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">Thanks for visiting my profile 🚀</p>
