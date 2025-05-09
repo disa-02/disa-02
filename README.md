@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Di Sabatto</h1>
 <h3 align="center"> System Engineer | Backend Developer</h3>
-
+![Avatar](./avatar.png)
 <p align="center">
   <img src="avatar.png" alt="Your avatar" width="150" style="border-radius: 50%;">
 </p>
