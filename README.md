@@ -2,7 +2,7 @@
 <h3 align="center"> System Engineer | Backend Developer</h3>
 
 <p align="center">
-  <img src="avatar.png" alt="Your avatar" width="150" style="border-radius: 50%;">
+  <img src="./avatar.png" alt="Your avatar" width="150" style="border-radius: 50%;">
 </p>
 
 <p align="center">
