@@ -19,25 +19,6 @@ I am a Systems Engineer with professional experience in backend development usin
 
 Currently, I am seeking new opportunities to expand my knowledge and continue growing professionally.
 
-#### 👨‍💻 Professional Experience
-
-**Polo Ambiental**  
-_Backend Developer — Aug 2024 - Present_  
-- Developed the backend using Java JDK 21 and Spring Boot. Implemented security with Spring Security and JWT, enabling role-based authentication and access control.  
-- Built the frontend with React, consuming REST APIs for a dynamic and responsive user experience.  
-- Deployed the application to AWS Lightsail using Docker and Docker Compose to automate the production environment.  
-- Used Git and GitHub for version control and team collaboration.  
-- Managed PostgreSQL databases: created and modified tables, executed SQL queries and updates, and handled data through the `psql` console.
-
-**Digital Cala**  
-_Software Developer — Feb 2024 - Feb 2025_  
-- Participated in analyzing and developing functional and technical requirements. Delivered new features with Java JDK 17, aligning with client needs.  
-- Automated tasks with Bash scripts and administered Linux servers to ensure system performance and reliability.  
-- Worked with MediationZone for data processing. Maintained and optimized existing applications for better performance.  
-- Managed Kubernetes pods and resources, facilitating distributed application orchestration.
-
----
-
 ### 🚀 Technologies & Tools
 
 #### 🧰 Frameworks & Platforms
